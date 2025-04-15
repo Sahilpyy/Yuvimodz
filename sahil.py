@@ -11,7 +11,7 @@ from requests.exceptions import ReadTimeout, ConnectionError
 
 # Load configuration
 CONFIG_FILE = 'config.json'
-ORIGINAL_BGMI_PATH = ''/workspaces/Publicvvsy/bgmi      #ADD YOUR FILES PATH HERE 
+ORIGINAL_BGMI_PATH =   '/workspaces/Publicvvsy/bgmi      #ADD YOUR FILES PATH HERE 
 #ORIGINAL_SAHIL_PATH = '/workspaces/sahil/sahil'    #ADD YOUR FILES PATH HERE 
 
 import random
